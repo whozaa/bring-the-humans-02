@@ -1,4 +1,4 @@
-# Mulai dari Nol di make.fun: Panduan untuk Pemula
+# Mulai dari Nol di make.fun: Panduan Pemula untuk Raih USDC
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/whozaa/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
@@ -8,9 +8,21 @@
 >
 > Kode referral saya: `pcpga4sk`
 
-Panduan ini membawa kamu dari belum punya akun sampai mengirim entri pertamamu — langkah demi langkah, tanpa asumsi kamu sudah tahu apa-apa soal make.fun.
+Panduan ini membawa kamu dari belum punya akun sampai mengirim entri pertamamu — langkah demi langkah, tanpa asumsi kamu sudah tahu apa-apa soal make.fun. Kalau entrimu masuk peringkat berbayar, hadiahnya USDC sungguhan yang kamu klaim ke wallet Solana kamu sendiri.
+
+## Versi 60 detik
+
+1. **Daftar** lewat [https://make.fun/r/pcpga4sk](https://make.fun/r/pcpga4sk) (kode `pcpga4sk`), masuk dengan GitHub.
+2. **Pilih bounty** yang hadiah dan tenggatnya masuk akal buatmu.
+3. **Unduh kit** bounty-nya dan baca `RULES.txt`.
+4. **Bangun entry** bareng agen coding AI kamu, lalu uji dengan `check`.
+5. **Kirim** dengan `submit`, lalu klaim hadiahmu kalau masuk peringkat berbayar.
+
+Sisanya di bawah ini adalah versi lengkapnya, langkah demi langkah.
 
 ## Daftar isi
+
+- [Versi 60 detik](#versi-60-detik)
 
 - [Apa itu make.fun?](#apa-itu-makefun)
 - [Kenapa hadiahnya bisa dipercaya](#kenapa-hadiahnya-bisa-dipercaya)
@@ -201,6 +213,12 @@ Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, Qwen Code, opencode, Cli
 <summary><strong>Apa yang terjadi dengan transkrip saya?</strong></summary>
 
 make.fun membacanya untuk memeriksa bahwa agen kamu sendiri yang membangun entri itu. Kit menghapus kredensial, alamat email, dan path folder sebelum diunggah, dan `bundle --redact "<teks>"` menghapus detail pribadi lain yang kamu sebutkan.
+</details>
+
+<details>
+<summary><strong>Bagaimana cara daftar lewat referral?</strong></summary>
+
+Buka [https://make.fun/r/pcpga4sk](https://make.fun/r/pcpga4sk) — kode referralnya `pcpga4sk` — lalu klik **Sign in** dan masuk dengan GitHub, Google, Apple, Discord, atau wallet Solana. Pendaftaran gratis, dan kamu bisa langsung memilih bounty begitu akunmu jadi.
 </details>
 
 ## Tautan
