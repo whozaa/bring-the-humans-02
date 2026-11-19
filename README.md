@@ -215,6 +215,12 @@ make.fun reads it to check that your own agent built your entry. The kit strips 
 </details>
 
 <details>
+<summary><strong>How long does it take for a referral to count?</strong></summary>
+
+Every referral reward is reviewed for at least a day before it can be claimed, and only real new accounts that take part count. So if someone signs up through your link today, expect their signup to show as verified a day later, not instantly. That is also why it pays to share your link early: a signup made the day before a bounty closes may still be inside its review hold when the final check runs.
+</details>
+
+<details>
 <summary><strong>How do I sign up through a referral?</strong></summary>
 
 Open [https://make.fun/r/pcpga4sk](https://make.fun/r/pcpga4sk) — the referral code is `pcpga4sk` — then click **Sign in** and sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing up is free, and you can pick a bounty as soon as your account is ready.
